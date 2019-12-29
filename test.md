@@ -54,17 +54,17 @@
 
 | 步骤 | 正常操作 | 预计效果 | 异常操作 | 预计效果 | 图片 |
 | --- | --- | --- | --- | --- | --- |
-| 所有订单 | 点击 | 跳转到所有订单界面 | 一直点 | 界面不动 | ![](python\1.png) |
-| 点击 Filter and sort by 选择 | 选一个 | 显示筛选后的订单 | 无 | 不显示筛选后的订单，显示全部订单 | ![](python\1.png) |
-| Status | 选一个 | 显示筛选后的订单 | 无 | 不显示筛选后的订单，显示全部订单 | ![](python\2.png) |
-| Payment status 和 Fulfillment status | 输入条件 | 显示按条件筛选后的订单 | 乱输入 | 找不到订单 | ![](python\3.png) |
-| 下一页按钮 | 点击下一页 | 跳转到下一页 | 疯狂点击 | 一直跳到下一页直至最后一页 | ![](python\4.png) |
-| new order | 点击 | 跳转到新建草稿页 | 疯狂点击 | 无 | ![](python\5.png) |
-| 草稿 | 点击 | 跳转到草稿界面 | 一直点 | 界面不动 | ![](python\6.png) |
-| 筛选条件 | 选择 | 显示筛选后的订单 | 无 | 不显示筛选后的订单，显示全部订单 | ![](python\7.png) |
-| new order | 点击 | 跳转到新建草稿页 | 疯狂点击 | 无 | ![](python\8.png) |
-| 弃单 | 点击 | 跳转到弃单页 | 一直点 | 界面不动 | ![](python\9.png) |
-| 筛选条件 | 选择 | 显示筛选后的弃单 | 无 | 不显示筛选后的弃单，显示全部弃单 | ![](python\10.png) |
+| 所有订单 | 点击 | 跳转到所有订单界面 | 一直点 | 界面不动 | ![](https://github.com/85208520/shopify-admin/blob/zengde/python/1.1.png) |
+| 点击 Filter and sort by 选择 | 选一个 | 显示筛选后的订单 | 无 | 不显示筛选后的订单，显示全部订单 | ![](https://github.com/85208520/shopify-admin/blob/zengde/python/1.png) |
+| Status | 选一个 | 显示筛选后的订单 | 无 | 不显示筛选后的订单，显示全部订单 | ![](https://github.com/85208520/shopify-admin/blob/zengde/python/2.png) |
+| Payment status 和 Fulfillment status | 输入条件 | 显示按条件筛选后的订单 | 乱输入 | 找不到订单 | ![](https://github.com/85208520/shopify-admin/blob/zengde/python/3.png) |
+| 下一页按钮 | 点击下一页 | 跳转到下一页 | 疯狂点击 | 一直跳到下一页直至最后一页 | ![](https://github.com/85208520/shopify-admin/blob/zengde/python/4.png) |
+| new order | 点击 | 跳转到新建草稿页 | 疯狂点击 | 无 | ![](https://github.com/85208520/shopify-admin/blob/zengde/python/5.png) |
+| 草稿 | 点击 | 跳转到草稿界面 | 一直点 | 界面不动 | ![](https://github.com/85208520/shopify-admin/blob/zengde/python/6.png) |
+| 筛选条件 | 选择 | 显示筛选后的订单 | 无 | 不显示筛选后的订单，显示全部订单 | ![](https://github.com/85208520/shopify-admin/blob/zengde/python/7.png) |
+| new order | 点击 | 跳转到新建草稿页 | 疯狂点击 | 无 | ![](https://github.com/85208520/shopify-admin/blob/zengde/python/8.png) |
+| 弃单 | 点击 | 跳转到弃单页 | 一直点 | 界面不动 | ![](https://github.com/85208520/shopify-admin/blob/zengde/python/9.png) |
+| 筛选条件 | 选择 | 显示筛选后的弃单 | 无 | 不显示筛选后的弃单，显示全部弃单 | ![](https://github.com/85208520/shopify-admin/blob/zengde/python/10.png) |
 
 #### 4.1.2
 
