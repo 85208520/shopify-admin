@@ -12,6 +12,7 @@ const initialState = {
     nowPage: 1,
     previous: '',
     next: '',
+    thisDetails:'',
 }
 const Model = {
     namespace: 'drafts',
@@ -45,7 +46,7 @@ const Model = {
                 type: 'setTableData_r',
                 payload: {
                     tableData: res_tableData.data.draft_orders,
-                    nowPages: 1,
+                    nowPage: 1,
                     previous: pagesUrl.previous,
                     next: pagesUrl.next,
                 }
@@ -133,6 +134,12 @@ const Model = {
             return {
                 ...state,
                 limit: action.payload,
+            }
+        },
+        setDetails_r(state, action){
+            return {
+                ...state,
+                thisDetails: action.payload,
             }
         },
     },
