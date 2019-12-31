@@ -20,5 +20,4 @@ ele.click()
 ele=driver.find_element_by_xpath('//*[@id="root"]/div/div/section/section/main/div/div[1]/div[2]/div/div/div/div[2]/div/div/div/div/div/table/tbody/tr[1]/td[2]/button')
 ele.click()
 ele=driver.find_element_by_xpath('//*[@id="root"]/div/div/section/section/main/div/div/div[1]/div/div/div[2]/div/div/i/svg')
-ele.click()
 pass 
