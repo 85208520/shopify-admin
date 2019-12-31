@@ -16,7 +16,7 @@
 
 #### 2.2 运行环境
 
-支持环境： Android 8 及以上。 测试环境：Selenium+Python 测试工具：Postman+Visual Studio Code
+支持环境： windows xp 及以上。 测试环境：Selenium+Python 测试工具：Postman+Visual Studio Code
 
 ### 3 测试计划
 
